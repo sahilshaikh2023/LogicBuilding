@@ -19,11 +19,8 @@ void Display (int iNo)
 
 }
 
-
- 
 int main()
 {   
-
 
       // iteration
   
